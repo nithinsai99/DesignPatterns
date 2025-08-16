@@ -1,0 +1,7 @@
+#ignore files
+bin
+obj
+
+*.csproj
+*.sln
+*.txt

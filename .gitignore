@@ -5,3 +5,9 @@ obj
 *.csproj
 *.sln
 *.txt
+*.dll
+*DS_Store
+*.json
+
+/*
+!/solid

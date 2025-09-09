@@ -10,7 +10,10 @@ namespace DesignPatterns
             Console.WriteLine("Here all it starts - From Main");
 
             //Call to the solid - Specifically for SRP - in SOLID 
-            Solid.ExecutionSRP();
+            //Solid.ExecutionSRP();
+
+            Console.WriteLine("\n OCP starts \n");
+            OpenClosedExample.ExecutionOCP();
         }
     }
 }
